@@ -55,6 +55,8 @@ public class MyBnB {
     amenitiesList.add("bath");
     amenitiesList.add("coffee maker");
     amenitiesList.add("wifi");
+    amenitiesList.add("pool");
+
   }
   
   private static void operations(Connection conn) {
