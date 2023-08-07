@@ -1,0 +1,16 @@
+1	house	123 thing street	canada	toronto	a1b2c3	12.3435	-51.6
+2	house	456 other drive	canada	toronto	a1b4d9	12.456	-51.34
+3	apartment	52 circle avenue rm 1	usa	new york	e4n1m6	34.5761	1.234
+4	boat	boat pier	canada	vancouver	l2d8m9	-8.983	23.456
+5	apartment	99 america road	usa	new york	e4n0q7	34.912	2.01
+6	apartment	52 circle avenue rm 2	usa	new york	e4n1m6	34.5761	1.234
+7	apartment	52 circle avenue rm 3	usa	new york	e4n1m6	34.5761	1.234
+8	apartment	52 circle avenue rm 4	usa	new york	e4n1m6	34.5761	1.234
+9	apartment	52 circle avenue rm 5	usa	new york	e4n1m6	34.5761	1.234
+10	apartment	52 circle avenue rm 6	usa	new york	e4n1m6	34.5761	1.234
+11	apartment	52 circle avenue rm 7	usa	new york	e4n1m6	34.5761	1.234
+12	apartment	52 circle avenue rm 7	usa	new york	e4n1m6	34.5761	1.234
+13	apartment	52 circle avenue rm 8	usa	new york	e4n1m6	34.5761	1.234
+14	apartment	52 circle avenue rm 9	usa	new york	e4n1m6	34.5761	1.234
+15	apartment	52 circle avenue rm 10	usa	new york	e4n1m6	34.5761	1.234
+16	apartment	52 circle avenue rm 11	usa	new york	e4n1m6	34.5761	1.234

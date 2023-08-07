@@ -1,0 +1,6 @@
+1	bruce h	40	business	27 thing street	1
+2	clark h	35	farmer	1 that road	4
+3	diana h	37	government	8 other drive	0
+4	richard r	20	unemployed	38 that street	3
+5	jon r	19	student	2 road avenue	10
+6	donna r	20	photographer	60 this road	7

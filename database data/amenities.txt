@@ -1,0 +1,6 @@
+1	bed	king sized
+2	tv	50 inches
+3	monopoly	have fun with friends
+4	shower	stay clean
+5	pool	the pool is very big
+6	computer	its very old but gets the job done
